@@ -1,6 +1,6 @@
 import Dependencies._
 
-lazy val versionNumber = "0.2.0"
+lazy val versionNumber = "0.2.1"
 lazy val snapshot      = "SNAPSHOT"
 lazy val versionTag    = versionNumber + "-" + snapshot
 
